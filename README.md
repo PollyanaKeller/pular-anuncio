@@ -1,6 +1,6 @@
 Youtube Detection
 
-ALunos: Julio Schendroski, Lucas Padilha, Pollyana Keller, Rayana Silva, Vitorio Serafini.
+Alunos: Julio Schendroski, Lucas Padilha, Pollyana Keller, Rayana Silva, Vitorio Serafini.
 
 Sobre o Projeto
 
